@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native, Next.js 13**
 
-- 👨‍💻 All of my projects are available at [https://main--wondrous-alpaca-756e35.netlify.app/](https://main--wondrous-alpaca-756e35.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mdriyas.vercel.app/](https://mdriyas.vercel.app/)
 
 - 💬 Ask me about **React,MERN**
 
