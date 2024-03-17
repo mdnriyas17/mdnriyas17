@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mdnriyas@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1fiG2G3waJRo9rs24bsac1etLW-dQWEdf/view](https://drive.google.com/file/d/1OvyONkFIKg0j8xCrC1n3TifgU85DVJvB/view)]([https://drive.google.com/file/d/1fiG2G3waJRo9rs24bsac1etLW-dQWEdf/view](https://drive.google.com/file/d/1OvyONkFIKg0j8xCrC1n3TifgU85DVJvB/view))
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1OvyONkFIKg0j8xCrC1n3TifgU85DVJvB/view](https://drive.google.com/file/d/1OvyONkFIKg0j8xCrC1n3TifgU85DVJvB/view)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
